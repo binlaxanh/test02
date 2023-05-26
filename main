@@ -1,7 +1,4 @@
-/* Deauther và TwinEvil
-Việt Hóa các thông tin cơ bản để thực hiện tấn công Ssid và hack pass 
-Phiên bản 1.0 
-*/
+
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
